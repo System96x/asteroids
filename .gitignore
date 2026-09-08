@@ -9,6 +9,9 @@ wheels/
 # Virtual environments
 .venv
 
+# log file from logger.py
+game_state.jsonl
+
 # misc (maybe change later?)
 .python-version
 pyproject.toml
