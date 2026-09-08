@@ -1,0 +1,16 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# misc (maybe change later?)
+.python-version
+pyproject.toml
+README.md
+uv.lock
