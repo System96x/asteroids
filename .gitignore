@@ -11,6 +11,7 @@ wheels/
 
 # log file from logger.py
 game_state.jsonl
+game_events.jsonl
 
 # misc (maybe change later?)
 .python-version
