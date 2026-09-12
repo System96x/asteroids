@@ -18,3 +18,4 @@ game_events.jsonl
 pyproject.toml
 README.md
 uv.lock
+high_score.txt
